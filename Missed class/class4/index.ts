@@ -1,0 +1,1 @@
+import { calculateArea } from "./main";
